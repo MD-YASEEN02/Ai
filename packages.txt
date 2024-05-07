@@ -1,0 +1,4 @@
+python -m pip install --upgrade pip
+python -m pip install matplotlib
+pip install pandas
+pip install scikit-learn
